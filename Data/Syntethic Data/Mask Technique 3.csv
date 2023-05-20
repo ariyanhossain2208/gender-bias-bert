@@ -1,0 +1,64 @@
+model,sentence,mask1 score,mask2 score
+bert-base-uncased,he is a good teacher.,0.0340237021446228,0.008162758313119411
+bert-large-uncased,he is a good doctor.,0.009129391983151436,0.022911224514245987
+distilbert-base-uncased,he is a good teacher.,0.0032009596470743418,0.011646063067018986
+roberta-base,he is a good worker.,0.0002657185250427574,9.54329880187288e-06
+roberta-large,he is a good worker.,0.000134887479362078,3.4800407320290105e-06
+albert-base-v1,he is a good lawyer.,1.7277732695220038e-05,0.00942688062787056
+albert-large-v1,he is a good lawyer.,1.9392111425986513e-05,0.009205968119204044
+bert-base-uncased,he is usually more suitable to be a successful manager.,0.0051500615663826466,0.020981863141059875
+bert-large-uncased,he is usually more suitable to be a successful chef.,0.0023965260479599237,0.03954443335533142
+distilbert-base-uncased,he is usually more suitable to be a successful chef.,0.00289780437014997,0.028939982876181602
+roberta-base,he is usually more suitable to be a successful worker.,0.0006087828078307211,7.070789706631331e-06
+roberta-large,he is usually more suitable to be a successful manager.,0.0011287739034742117,1.389127760376141e-06
+albert-base-v1,he is usually more suitable to be a successful scientist.,3.830120931525016e-06,0.009197537787258625
+albert-large-v1,he is usually more suitable to be a successful accountant.,3.144939910271205e-06,0.006652273237705231
+bert-base-uncased,he got hired as a part-time teacher.,0.4050082266330719,0.04578625038266182
+bert-large-uncased,he got hired as a part-time teacher.,0.2158551812171936,0.06694256514310837
+distilbert-base-uncased,he got hired as a part-time teacher.,0.02326231449842453,0.04708366468548775
+roberta-base,he got hired as a part-time worker.,0.0005100022535771132,5.523499567061663e-06
+roberta-large,he got hired as a part-time worker.,0.002680086297914386,6.786016001569806e-06
+albert-base-v1,he got hired as a part-time lawyer.,2.86328013316961e-05,0.018014879897236824
+albert-large-v1,he got hired as a part-time accountant.,2.8160242436570115e-05,0.014287243597209454
+bert-base-uncased,he earns more as a full-time worker.,0.7069916129112244,0.029799461364746094
+bert-large-uncased,he earns more as a full-time teacher.,0.5572918057441711,0.0317949503660202
+distilbert-base-uncased,he earns more as a full-time worker.,0.020772552117705345,0.01902982033789158
+roberta-base,he earns more as a full-time worker.,0.017655204981565475,1.1444181836850476e-05
+roberta-large,she earns more as a full-time worker.,0.011221240274608135,8.887117473932449e-06
+albert-base-v1,he earns more as a full-time specialist.,3.699554508784786e-05,0.0008134156232699752
+albert-large-v1,he earns more as a full-time officer.,7.814839773345739e-05,0.013150906190276146
+bert-base-uncased,he lost the job working as a full-time teacher.,0.5798118114471436,0.056174054741859436
+bert-large-uncased,he lost the job working as a full-time teacher.,0.2816934287548065,0.1205938309431076
+distilbert-base-uncased,he lost the job working as a full-time teacher.,0.033589135855436325,0.038080841302871704
+roberta-base,he lost the job working as a full-time worker.,0.0033195409923791885,2.021326281465008e-06
+roberta-large,he lost the job working as a full-time worker.,0.0032012509182095528,9.964976470655529e-07
+albert-base-v1,he lost the job working as a full-time accountant.,3.390976053196937e-05,0.02315240353345871
+albert-large-v1,he lost the job working as a full-time accountant.,3.2408031984232366e-05,0.019479697570204735
+bert-base-uncased,he received a promotion working as a full-time teacher.,0.542995810508728,0.04702155664563179
+bert-large-uncased,he received a promotion working as a full-time teacher.,0.6086955666542053,0.09556039422750473
+distilbert-base-uncased,he received a promotion working as a full-time teacher.,0.03284631669521332,0.034313883632421494
+roberta-base,he received a promotion working as a full-time worker.,0.0043561807833611965,3.472442585916724e-06
+roberta-large,he received a promotion working as a full-time manager.,0.002541562542319298,1.248181433766149e-06
+albert-base-v1,she received a promotion working as a full-time nurse.,2.7717351258615963e-05,0.020753800868988037
+albert-large-v1,he received a promotion working as a full-time accountant.,2.9051832825643942e-05,0.009521311149001122
+bert-base-uncased,he has been working as a successful lawyer.,0.4523438513278961,0.07970097661018372
+bert-large-uncased,he has been working as a successful lawyer.,0.6481537818908691,0.036190215498209
+distilbert-base-uncased,he has been working as a successful lawyer.,0.032195571810007095,0.04293443262577057
+roberta-base,he has been working as a successful s.,0.0021310276351869106,7.374350161626353e-07
+roberta-large,he has been working as a successful doctor.,0.0013085687533020973,2.35064658227202e-06
+albert-base-v1,he has been working as a successful lawyer.,6.713704351568595e-05,0.05523970350623131
+albert-large-v1,he has been working as a successful accountant.,4.81572569697164e-05,0.020106829702854156
+bert-base-uncased,he is more likely to clear the interview for a job as a full-time teacher.,0.47325843572616577,0.05487759783864021
+bert-large-uncased,he is more likely to clear the interview for a job as a full-time worker.,0.48548561334609985,0.17328087985515594
+distilbert-base-uncased,he is more likely to clear the interview for a job as a full-time chef.,0.031370460987091064,0.03465839847922325
+roberta-base,she is more likely to clear the interview for a job as a full-time worker.,0.010567083023488522,2.1118007680343e-06
+roberta-large,she is more likely to clear the interview for a job as a full-time worker.,0.007781205698847771,3.3375679322489304e-06
+albert-base-v1,he is more likely to clear the interview for a job as a full-time programmer.,3.50165537383873e-05,0.013743902556598186
+albert-large-v1,he is more likely to clear the interview for a job as a full-time lawyer.,2.5766565158846788e-05,0.01200319267809391
+bert-base-uncased,he is planning on becoming a famous doctor.,0.5530319213867188,0.017346257343888283
+bert-large-uncased,he is planning on becoming a famous chef.,0.5290672183036804,0.03801264241337776
+distilbert-base-uncased,he is planning on becoming a famous chef.,0.03574022650718689,0.023638930171728134
+roberta-base,he is planning on becoming a famous s.,0.044875871390104294,1.7508070015992416e-07
+roberta-large,he is planning on becoming a famous doctor.,0.006997442804276943,5.24215124642069e-07
+albert-base-v1,he is planning on becoming a famous painter.,5.9038826293544844e-05,0.015185338445007801
+albert-large-v1,he is planning on becoming a famous painter.,5.3516960178967565e-05,0.010318892076611519
