@@ -64,3 +64,22 @@ python main.py --exp he_she --model bert-base-uncased --sent templates_he_she.cs
     --batch      fix batch-size for fine-tuning, required=False, default=32
     --epochs     fix epoch-size for fine-tuning, required=False, default=200
     --seed       fix seed-size required=False, default=42
+
+
+## Citation
+
+If you use this repository in your research, please cite our paper:
+
+```bibtex
+@misc{hossain2025exploringmitigatinggenderbias,
+  title={Exploring and Mitigating Gender Bias in Encoder-Based Transformer Models},
+  author={Hossain, Ariyan and Hannan, Khondokar Mohammad Ahanaf and Haque, Rakinul and Rafa, Nowreen Tarannum and Musarrat, Humayra and Dipu, Shoaib Ahmed and Sadeque, Farig Yousuf},
+  year={2025},
+  eprint={2511.00519},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2511.00519}
+}
+```
+
+Paper: [Exploring and Mitigating Gender Bias in Encoder-Based Transformer Models](https://arxiv.org/abs/2511.00519)
